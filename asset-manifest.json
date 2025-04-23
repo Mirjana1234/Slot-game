@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/slot-game/static/css/main.57c513ea.css",
+    "main.js": "/slot-game/static/js/main.f1b269c7.js",
+    "index.html": "/slot-game/index.html",
+    "main.57c513ea.css.map": "/slot-game/static/css/main.57c513ea.css.map",
+    "main.f1b269c7.js.map": "/slot-game/static/js/main.f1b269c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57c513ea.css",
+    "static/js/main.f1b269c7.js"
+  ]
+}
